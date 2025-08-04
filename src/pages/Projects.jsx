@@ -7,7 +7,7 @@ const projects = [
     description:
       'An AI-powered reinforcement learning agent that dynamically manages Wi-Fi access points and optimizes 6G connectivity using real-time signal and latency data.',
     tags: ['Python', 'RL', 'Networking', 'AI'],
-    image: '/public/6G-AI-AGENT.jpg',
+    image: '/6G-AI-AGENT.jpg',
     codeLink: 'https://github.com/Richard-Xu-86/6G-AI-AGENT',
   },
   {
@@ -15,7 +15,7 @@ const projects = [
     description:
       'A Python-based eBay scraping tool with AI filtering to track and recommend best product deals across keywords in real-time.',
     tags: ['Python', 'Web Scraping', 'eBAY API', 'Automation'],
-    image: '/public/EBAY.png',
+    image: '/EBAY.png',
     codeLink: 'https://github.com/Richard-Xu-86/EBAY-DEALFINDER-AI',
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     description:
       'A full-stack budgeting web app to manage income and expenses. Features CSV, EXCEL, PDF exports, summary graphs, history of expenses and incomes. Built with Django, Bootstrap, and PostgreSQL.',
     tags: ['Django', 'Python','HTML', 'Bootstrap', 'PostgreSQL'],
-    image: '/public/FINANCETRACKER.png',
+    image: '/FINANCETRACKER.png',
     codeLink: 'https://github.com/Richard-Xu-86/FinanceTracker',
   },
 ];

@@ -10,7 +10,7 @@ export default function About({ onPrev, onNext }) {
 
       <div className="flex flex-col md:flex-row items-center md:items-start gap-10">
         <img
-          src="/public/AI-ME.png"
+          src="/AI-ME.png"
           alt="Richard Xu avatar"
           className="w-48 h-48 rounded-2xl shadow-md object-cover"
         />
