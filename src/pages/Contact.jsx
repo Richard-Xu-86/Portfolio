@@ -67,7 +67,7 @@ export default function Contact({ onPrev }) {
               <FaGithub size={24} />
             </a>
             <a
-              href="https://linkedin.com/in/your-linkedin"
+              href="https://www.linkedin.com/in/richard-xu-/"
               className="bg-gray-100 hover:bg-gray-200 p-3 rounded-full shadow"
               target="_blank"
               rel="noopener noreferrer"
@@ -92,10 +92,10 @@ export default function Contact({ onPrev }) {
           <p className="text-gray-600 text-sm">
             Or reach me directly at: <br />
             <a
-              href="mailto:richardxubusiness@gmail.com"
+              href="mailto:Richadam86@gmail.com"
               className="text-blue-500 underline"
             >
-              richardxubusiness@gmail.com
+              Richadam86@gmail.com
             </a>
           </p>
         </div>
