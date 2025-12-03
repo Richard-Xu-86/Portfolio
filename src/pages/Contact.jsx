@@ -13,7 +13,7 @@ export default function Contact({ onPrev }) {
 
         {/* Left: Contact Form (functional) */}
         <div>
-          <h2 className="text-3xl font-bold mb-2">Say Hello/h2>
+          <h2 className="text-3xl font-bold mb-2">Say Hello </h2>
           <p className="text-gray-600 mb-6">Feel free to reach out via the form below</p>
           <form
             action="https://formspree.io/f/mrblavga"
