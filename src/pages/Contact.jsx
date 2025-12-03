@@ -13,7 +13,7 @@ export default function Contact({ onPrev }) {
 
         {/* Left: Contact Form (functional) */}
         <div>
-          <h2 className="text-3xl font-bold mb-2">Say Hello 👋</h2>
+          <h2 className="text-3xl font-bold mb-2">Say Hello/h2>
           <p className="text-gray-600 mb-6">Feel free to reach out via the form below</p>
           <form
             action="https://formspree.io/f/mrblavga"
@@ -46,7 +46,7 @@ export default function Contact({ onPrev }) {
               type="submit"
               className="bg-blue-500 text-white px-6 py-2 rounded-full shadow hover:bg-blue-600 transition"
             >
-              🚀 Send Message
+              Send Message
             </button>
           </form>
         </div>
