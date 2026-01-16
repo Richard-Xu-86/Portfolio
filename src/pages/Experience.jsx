@@ -2,6 +2,19 @@ import React from "react";
 
 const experiences = [
   {
+    role: "AI Developer",
+    Company: "World Vision",
+    duration: "Sep 2025 - Present",
+    description:
+      <ul className="list-disc pl-5 space-y-1">
+        <li>Developing an AI-powered research and knowledge discovery platform for World Vision, enabling faster access to insights across large volumes of unstructured data.</li>
+        <li>Designing a scalable backend pipeline to ingest, process, and index research documents for efficient semantic search and retrieval.</li>
+        <li>Implementing natural language processing techniques to support intelligent querying, summarization, and insight extraction for non-technical users.</li>
+        <li>Building a responsive web interface to allow researchers to explore, filter, and interact with AI-generated insights in real time.</li>
+        <li>Collaborating with a cross-functional student team to translate NGO research needs into practical, deployable software solutions.</li>
+      </ul>
+  },
+  {
     role: "AI/ML Research Intern",
     position: "Intern",
     duration: "May 2025 - Aug 2025",
@@ -13,7 +26,7 @@ const experiences = [
         <li>Integrated backend logic with Flask and React to facilitate interaction between agents and the interface.</li>
         <li>Focused on improving handoff efficiency, reducing interference, and boosting overall throughput in dense network environments.</li>
       </ul>
-  },
+  }
 ];
 
 export default function Experience({ onPrev, onNext }) {

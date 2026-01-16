@@ -75,7 +75,7 @@ export default function Contact({ onPrev }) {
               <FaLinkedin size={24} />
             </a>
             <a
-              href="mailto:richardxubusiness@gmail.com"
+              href="mailto:richardxu11111@gmail.com"
               className="bg-gray-100 hover:bg-gray-200 p-3 rounded-full shadow"
             >
               <FaEnvelope size={24} />
@@ -92,10 +92,10 @@ export default function Contact({ onPrev }) {
           <p className="text-gray-600 text-sm">
             Or reach me directly at: <br />
             <a
-              href="mailto:Richadam86@gmail.com"
+              href="mailto:richardxu11111@gmail.com"
               className="text-blue-500 underline"
             >
-              Richadam86@gmail.com
+              richardxu11111@gmail.com
             </a>
           </p>
         </div>
