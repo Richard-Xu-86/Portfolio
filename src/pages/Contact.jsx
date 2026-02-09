@@ -81,7 +81,7 @@ export default function Contact({ onPrev }) {
               <FaEnvelope size={24} />
             </a>
             <a
-              href="/resume.pdf"
+              href="/Richard_resume.pdf"
               className="bg-gray-100 hover:bg-gray-200 p-3 rounded-full shadow"
               target="_blank"
               rel="noopener noreferrer"
