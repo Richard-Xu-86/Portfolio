@@ -1,18 +1,18 @@
-# 💼 Richard Xu — Developer Portfolio
+# Richard Xu — Developer Portfolio
 
 Welcome to my personal developer portfolio! This site was designed to showcase who I am, what I’ve worked on, and how to get in touch. Built with modern tools, this portfolio reflects my technical capabilities and design preferences.
 
 ---
 
-## 📌 About Me
+## About Me
 
 Hi! I’m **Richard Xu**, a full-stack developer and second-year software engineering student at **Western University**. I specialize in building clean, responsive, and user-focused digital experiences. My work blends beautiful front-end design with scalable and efficient backend logic.
 
-### 🌐 Live Website
+### Live Website
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React, Tailwind CSS, ShadCN UI, Vite
 - **Backend (Projects):** Flask, Django, Node.js
@@ -20,26 +20,26 @@ Hi! I’m **Richard Xu**, a full-stack developer and second-year software engine
 
 ---
 
-## 📂 Key Sections
+## Key Sections
 
-### ✨ Hero Section
+### Hero Section
 A dynamic intro with animated text, gradient highlights, and CTA for recruiters.
 
-### 👨‍💼 About Me
+### About Me
 Personal background, goals, and design philosophy.
 
-### 🧠 Experience
+### Experience
 Summarizes my role as an **AI/ML Research Intern**, where I developed a multi-agent Wi-Fi optimization system using reinforcement learning.
 
-### 💻 Projects
+### Projects
 List of notable software projects, each with a GitHub link and visual preview.
 
-### 📬 Contact
+### Contact
 A responsive contact form using **Formspree**, plus social links and resume download.
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 | Hero Section  | Projects Section | About Me |
 |---------------|------------------|----------|
@@ -52,7 +52,7 @@ A responsive contact form using **Formspree**, plus social links and resume down
 
 ---
 
-## 🏁 Getting Started (Local Development)
+## Getting Started (Local Development)
 
 ```bash
 git clone https://github.com/richard-xu-86/Portfolio.git
