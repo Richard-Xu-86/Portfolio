@@ -25,7 +25,7 @@ export default function About({ onPrev, onNext }) {
 
           <div className="flex flex-wrap gap-4 mt-6">
           <a
-            href="/resume.pdf"
+            href="/Richard_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-medium px-5 py-2 rounded-full shadow"
