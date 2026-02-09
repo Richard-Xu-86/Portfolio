@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaFileAlt } from "react-icons/fa";
 
 export default function Contact({ onPrev }) {
   const handleSubmit = () => {
-    alert("✅ Message sent! I’ll get back to you shortly.");
+    alert("Message sent! I’ll get back to you shortly.");
   };
 
   return (
